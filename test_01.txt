@@ -1,0 +1,116 @@
+Enter option: 2
+Enter the data of the figure: 
+1 2 0 0 4 0
+Enter option: 1
+  -> |||(1, 2)(0, 0)(4, 0)(3, 2)|||
+
+Enter option: 4
+(1, 2)(0, 0)(4, 0)(3, 2)
+Enter option: 13
+Enter option: 1
+  -> (1, 2)(0, 0)(4, 0)(3, 2)
+  -> |||     |||
+Enter option: 2
+Enter the data of the figure: 
+2 4 1 1 6 1
+Enter option: 2
+Enter the data of the figure: 
+0 0 0 0 0 0 
+Enter option: 1
+  -> (1, 2)(0, 0)(4, 0)(3, 2)
+  -> |||(0, 0)(0, 0)(0, 0)(0, 0)|||
+  -> (2, 4)(1, 1)(6, 1)(5, 4)
+
+Enter option: 12
+Enter option: 1
+  -> (1, 2)(0, 0)(4, 0)(3, 2)
+  -> (0, 0)(0, 0)(0, 0)(0, 0)
+  -> (2, 4)(1, 1)(6, 1)(5, 4)
+  -> |||     |||
+Enter option: 2
+Enter the data of the figure: 
+1 3 0 0 3 0
+Enter option: 1
+  -> (1, 2)(0, 0)(4, 0)(3, 2)
+  -> (0, 0)(0, 0)(0, 0)(0, 0)
+  -> (2, 4)(1, 1)(6, 1)(5, 4)
+  -> |||(1, 3)(0, 0)(3, 0)(2, 3)|||
+
+Enter option: 11
+Enter option: 1
+  -> |||(1, 2)(0, 0)(4, 0)(3, 2)|||
+  -> (0, 0)(0, 0)(0, 0)(0, 0)
+  -> (2, 4)(1, 1)(6, 1)(5, 4)
+  -> (1, 3)(0, 0)(3, 0)(2, 3)
+
+Enter option: 4
+(1, 2)(0, 0)(4, 0)(3, 2)
+(0, 0)(0, 0)(0, 0)(0, 0)
+(2, 4)(1, 1)(6, 1)(5, 4)
+(1, 3)(0, 0)(3, 0)(2, 3)
+Enter option: 1
+  -> |||(1, 2)(0, 0)(4, 0)(3, 2)|||
+  -> (0, 0)(0, 0)(0, 0)(0, 0)
+  -> (2, 4)(1, 1)(6, 1)(5, 4)
+  -> (1, 3)(0, 0)(3, 0)(2, 3)
+
+Enter option: 13
+Enter option: 1
+  -> (1, 2)(0, 0)(4, 0)(3, 2)
+  -> |||(0, 0)(0, 0)(0, 0)(0, 0)|||
+  -> (2, 4)(1, 1)(6, 1)(5, 4)
+  -> (1, 3)(0, 0)(3, 0)(2, 3)
+
+Enter option: 3
+Enter option: 1
+  -> (1, 2)(0, 0)(4, 0)(3, 2)
+  -> |||(2, 4)(1, 1)(6, 1)(5, 4)|||
+  -> (1, 3)(0, 0)(3, 0)(2, 3)
+
+Enter option: 12
+Enter option: 1
+  -> (1, 2)(0, 0)(4, 0)(3, 2)
+  -> (2, 4)(1, 1)(6, 1)(5, 4)
+  -> (1, 3)(0, 0)(3, 0)(2, 3)
+  -> |||     |||
+Enter option: 14
+Enter index: 1
+Enter option: 1
+  -> (1, 2)(0, 0)(4, 0)(3, 2)
+  -> |||(2, 4)(1, 1)(6, 1)(5, 4)|||
+  -> (1, 3)(0, 0)(3, 0)(2, 3)
+
+Enter option: 14
+Enter index: 3
+Enter option: 1
+  -> (1, 2)(0, 0)(4, 0)(3, 2)
+  -> (2, 4)(1, 1)(6, 1)(5, 4)
+  -> (1, 3)(0, 0)(3, 0)(2, 3)
+  -> |||     |||
+Enter option: 5
+Enter square: 10
+Number of objects with an area less than the specified one: 2
+Enter option: 1
+  -> (1, 2)(0, 0)(4, 0)(3, 2)
+  -> (2, 4)(1, 1)(6, 1)(5, 4)
+  -> (1, 3)(0, 0)(3, 0)(2, 3)
+  -> |||     |||
+Enter option: 13
+ERROR: Trying to go out of range.
+Enter option: 14
+Enter index: -1
+ERROR: Index is out of range.
+Enter option: 14
+Enter index: 5
+ERROR: Index is out of range.
+Enter option: 3
+ERROR: Trying to delete nonexistent element.
+Enter option: 11
+Enter option: 1
+  -> |||(1, 2)(0, 0)(4, 0)(3, 2)|||
+  -> (2, 4)(1, 1)(6, 1)(5, 4)
+  -> (1, 3)(0, 0)(3, 0)(2, 3)
+
+Enter option: 8
+ERROR: Incorrect command entered.
+Enter option: 9

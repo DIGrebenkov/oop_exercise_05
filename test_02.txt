@@ -1,0 +1,36 @@
+0. Print menu.
+1. Show list.
+11. Go to the beginning.
+12. Go to the ending.
+13. Go to the next element.
+14. Go to the element with the entered number.
+2. Add element in iterator position.  
+3. Erase element in iterator position.
+4. Print figures with "for_each".
+5. Print the number of objects with an area less than the specified one.
+9. Quit the program.
+Enter option: 0
+0. Print menu.
+1. Show list.
+11. Go to the beginning.
+12. Go to the ending.
+13. Go to the next element.
+14. Go to the element with the entered number.
+2. Add element in iterator position.
+3. Erase element in iterator position.
+4. Print figures with "for_each".
+5. Print the number of objects with an area less than the specified one.
+9. Quit the program.
+Enter option: 1
+List is empty.
+Enter option: 13
+ERROR: Trying to go out of range.
+Enter option: 14
+Enter index: 1
+ERROR: Index is out of range.
+Enter option: 3
+ERROR: Trying to delete nonexistent elements.
+Enter option: 4
+Enter option: 5
+Enter square: 10
+Number of objects with an area less than the specified one: 0
